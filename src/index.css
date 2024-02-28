@@ -33,6 +33,7 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color: white;
 }
 
 button {
@@ -65,4 +66,16 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+h2:hover {
+color: aqua;
+}
+
+h2 {
+  color: burlywood;
+}
+
+ul {
+color: aqua;
 }
